@@ -4,6 +4,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class Kaulins {
+<<<<<<< HEAD
 
 	public static void main(String[] args) {
 		int sk, reizes;
@@ -15,6 +16,18 @@ public class Kaulins {
 		sk = rng.nextInt(6)+1;
 		System.out.println("Tu uzmeti "+sk);
 		}
+=======
+	static void mesties(int reizes) {
+		int sk;
+		for(int i=0;i<reizes;i++) {
+		Random rng = new Random();
+		sk = rng.nextInt(6)+1;
+		System.out.println("Tu uzmeti "+sk);
+		}
+	}
+	public static void main(String[] args) {
+		mesties(4);
+>>>>>>> idejuZARS
 	}
 
 }
