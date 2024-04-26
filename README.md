@@ -6,7 +6,7 @@ java projekts, kas realizē metamā kauliņa mešanu or sum
 - [x] Uzsākta lokālā Java projekta versionēšana ar Git
 - [x] Izveidots GitHub konts;
 - [x] Izveidota GitHUb krātuve;
-- [ ] Papildināto GitHub saturu iegūt lokālai lietošanai
+- [x] Papildināto GitHub saturu iegūt lokālai lietošanai
 - [ ] Projektam pievienots vēl viens programmētājs
 - [ ] Sapludināti zari un novērsts sapludināšanas konflikts
 - [ ] Novērsts kļūdas pieteikums(issue)
